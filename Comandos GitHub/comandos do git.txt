@@ -1,0 +1,5 @@
+git init 
+git status (pra ver como estão os arquivos pendentes)
+git add .
+git commit -m 'Digite aqui'
+git push -u origin master
